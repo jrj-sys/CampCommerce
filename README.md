@@ -13,7 +13,7 @@ Back end for an e-commerce site. Utilizes an Express.js API and configures it to
 ## Installation
 To install, clone the repository to the directory of your choosing. Navigate to the repository root folder and create a `.env` file. In this `.env` file, you will need three values: `DB_NAME='campcommerce'`, `DB_USER='root'`, and `DB_PW='Enter your MySQL password here!'`. Next, run `npm i` and `npm run seed` within your terminal to install node dependencies and seed the database with dummy data. Ideally, you also want to install nodemon as a development dependency if you plan to update the code. 
 ## Usage
-To see usage demonstration, refer to this video [here]()!
+To see usage demonstration, refer to this video [here](https://www.youtube.com/watch?v=C753Ect91RQ)!
 ## Credits
 [Jamel James](https://github.com/jrj-sys)
 ## Made With:
